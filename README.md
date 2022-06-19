@@ -1,7 +1,12 @@
 gsh example
 =====
 
-Gsh (Go+ DevOps Tools) is a demo project to implement a new `ClassFile` work: [github.com/xushiwei/gsh](https://github.com/xushiwei/gsh).
+[![Language](https://img.shields.io/badge/language-Go+-blue.svg)](https://github.com/goplus/gop)
+[![GitHub release](https://img.shields.io/github/v/tag/goplus/gop.svg?label=Go%2b+release)](https://github.com/goplus/gop/releases)
+[![Discord](https://img.shields.io/badge/Discord-online-success.svg?logo=discord&logoColor=white)](https://discord.gg/mYjWCJDcAr)
+
+
+Gsh ([Go+](https://github.com/goplus/gop) DevOps Tools) is a demo project to implement a new `ClassFile` work: [github.com/xushiwei/gsh](https://github.com/xushiwei/gsh).
 
 This example project demonstrates how to use `gsh`.
 
