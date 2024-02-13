@@ -1,0 +1,4 @@
+github.com/qiniu/x v1.13.5 h1:YJz5i3RD/7srMLEmp7UAcYmZ9qrhOPk0EL0pGiuxGbA=
+github.com/qiniu/x v1.13.5/go.mod h1:INZ2TSWSJVWO/RuELQROERcslBwVgFG7MkTfEdaQz9E=
+github.com/xushiwei/gsh v0.7.0 h1:2gGioQ75AH8+Aug4CazDaW0BfkOM+DJcF9WJZ9xi0tM=
+github.com/xushiwei/gsh v0.7.0/go.mod h1:wU01s4bkGGee9iVsjuqz9jUViJst/BGf+oTkV08hUi0=
