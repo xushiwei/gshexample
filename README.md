@@ -21,7 +21,7 @@ gop mod init gshexample
 Second, get `github.com/xushiwei/gsh` into `gshexample`:
 
 ```sh
-gop get github.com/xushiwei/gsh
+gop get github.com/xushiwei/gsh@latest
 ```
 
 Third, create a Go+ source file named `./example.gsh` and write the following code:
