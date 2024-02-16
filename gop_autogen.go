@@ -110,6 +110,5 @@ func (this *example) MainEntry() {
 	this.Gop_Exec("rmdir", "testgsh", "testgsh2", "testgsh3")
 }
 func main() {
-//line example.gsh:23:1
 	gsh.Gopt_App_Main(new(example))
 }
