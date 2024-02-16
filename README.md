@@ -5,6 +5,7 @@ gsh example
 [![GitHub release](https://img.shields.io/github/v/tag/goplus/gop.svg?label=Go%2b+release)](https://github.com/goplus/gop/releases)
 [![Discord](https://img.shields.io/badge/Discord-online-success.svg?logo=discord&logoColor=white)](https://discord.gg/mYjWCJDcAr)
 
+Deprecated: The [github.com/xushiwei/gsh](https://github.com/xushiwei/gsh) project is accepted by Go+ as a builtin [classfile]() and is moved to [github.com/qiniu/x/gsh](https://github.com/qiniu/x/tree/main/gsh).
 
 Gsh ([Go+](https://github.com/goplus/gop) DevOps Tools) is a demo project to implement a new `ClassFile` work: [github.com/xushiwei/gsh](https://github.com/xushiwei/gsh).
 
@@ -131,7 +132,7 @@ total 72
 -rw-r--r--  1 xushiwei  staff   1938 Jun 19 10:00 gop_autogen.go
 ```
 
-We can use [Go+ powerful built-in data processing capabilities](doc/docs.md#data-processing) to process captured `output`:
+We can use [Go+ powerful built-in data processing capabilities](https://github.com/goplus/gop/blob/main/doc/docs.md#data-processing) to process captured `output`:
 
 ```coffee
 type file struct {
